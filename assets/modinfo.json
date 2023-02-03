@@ -1,9 +1,9 @@
 ﻿{
-  "id": "testmod",
-  "name": "Test Mod",
-  "version": "0.1.0",
-  "authors": "Author",
-  "description": "Put a neat description here",
+  "id": "osha-gates",
+  "name": "OSHA Compliant Gates",
+  "version": "1.0.0",
+  "authors": "Dual",
+  "description": "Prevents region gates from closing until all objects have safely passed through. Never worry about losing another pearl, spear, corpse, friend, or what-have-you to those accursed doors!<LINE><LINE>Code at github.com/Dual-Iron/osha-compliant-gates",
   "requirements": [],
   "requirements_names": [],
   "checksum_override_version": false
