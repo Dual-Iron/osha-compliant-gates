@@ -6,5 +6,6 @@
   "description": "Prevents region gates from closing until all objects have safely passed through. Never worry about losing another pearl, spear, corpse, friend, or what-have-you to those accursed doors!<LINE><LINE>Code at github.com/Dual-Iron/osha-compliant-gates",
   "requirements": [],
   "requirements_names": [],
+  "tags": [ "Accessibility", "Game Mechanics", "Items", "Creatures" ],
   "checksum_override_version": false
 }
